@@ -1,0 +1,22 @@
+[
+  {
+    "proposal": "533",
+    "revision": "98e098b7ca7c289066d20f73411ce649081d378b",
+    "source_url": "https://github.com/joaommartins/agent-client-protocol/blob/98e098b7ca7c289066d20f73411ce649081d378b/docs/rfds/multi-client-session-attach.mdx",
+    "original_file": "rfd-533.mdx",
+    "original_sha256": "5f855458a65f95b6d9ebac4168926e9fdcdb325a677112124f61ecb67c2bd456",
+    "review_file": "rfd-533-review.mdx",
+    "review_sha256": "cfc310be8d46609d7fde5f944beb47f28ac0268611fbc41faa9c6850ea891588",
+    "adaptation": "Complete text; only relative Markdown link destinations rebased to upstream absolute URLs so the review does not follow unrelated local paths."
+  },
+  {
+    "proposal": "1261",
+    "revision": "ee193af58f211a1cbfde30029d5283f9c94c554c",
+    "source_url": "https://github.com/kennethsinder/agent-client-protocol/blob/ee193af58f211a1cbfde30029d5283f9c94c554c/docs/rfds/v2/prompt-delivery.mdx",
+    "original_file": "rfd-1261.mdx",
+    "original_sha256": "ad6d516c323ea1fcbfa06186ed710ebc4de104443cefdfc2413d6132b0d7d864",
+    "review_file": "rfd-1261-review.mdx",
+    "review_sha256": "9f8124a9eca31f9bea414713cddad16309856a8c78198924aa2e917dce6d7fa0",
+    "adaptation": "Complete text; only relative Markdown link destinations rebased to upstream absolute URLs so the review does not follow unrelated local paths."
+  }
+]

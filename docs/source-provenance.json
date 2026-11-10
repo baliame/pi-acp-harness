@@ -1,0 +1,17 @@
+{
+  "pi": {
+    "repository": "https://github.com/earendil-works/pi",
+    "revision": "9879bb44754ce42f52800371aac8cfbccf521cb7",
+    "sdk": "1.5.0",
+    "ai": "1.5.0",
+    "license": "MIT",
+    "integration": "Published unmodified SDK dependencies; no Pi runtime source copied or patched."
+  },
+  "acp": {
+    "sdk": "2.4.0",
+    "sdk_revision": "8d953276e54f8fd60108d6ffca3aefc4c83644a4",
+    "frontend_schema_revision": "7441d106a853682cce61d2dd7db54123e4b9a477",
+    "license": "Apache-2.0",
+    "note": "SDK and frontend schema snapshots differ only in optional system-prompt customization in the compared definitions. This PoC does not advertise or use it; v2 is draft."
+  }
+}

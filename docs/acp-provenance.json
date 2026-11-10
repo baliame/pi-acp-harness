@@ -1,0 +1,17 @@
+{
+  "repository": "https://github.com/agentclientprotocol/agent-client-protocol",
+  "revision": "7441d106a853682cce61d2dd7db54123e4b9a477",
+  "license": "Apache-2.0",
+  "files": [
+    {
+      "source": "schema/v1/schema.json",
+      "destination": "docs/schemas/v1.json",
+      "upstream_sha256": "e747a7bec3c02708b70885bf3cccac5c72fa421390dd7e85758fd61e33b1ae21"
+    },
+    {
+      "source": "schema/v2/schema.json",
+      "destination": "docs/schemas/v2.json",
+      "upstream_sha256": "7ea2cf5fd8eb56102a19729c6254bfabb78ecd83572d92c7fd155bc2fa7f8bc4"
+    }
+  ]
+}
